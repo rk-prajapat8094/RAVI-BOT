@@ -87,11 +87,12 @@
 		"wikijs": "^6.3.3",
 		"youtube-search-api": "^1.1.0",
 		"youtubei.js": "^1.4.5",
-		"ytdl-core": "^4.11.2",
-		"zalgo": "0.0.1"
+		    "ytdl-core": "^4.11.2",
+    "zalgo": "0.0.1"
 	},
 	"overrides": {
-		"fb-chat-api": "github:mcauser/fb-chat-api"
+		"fb-chat-api": "https://github.com/mcauser/fb-chat-api.git"
 	},
 	"devDependencies": {}
 }
+
