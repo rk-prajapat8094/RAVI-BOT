@@ -27,7 +27,7 @@
 	"bugs": {
 		"url": "https://github.com/ChoruTiktokers182/Choru-bypass/issues"
 	},
-	"homepage": "https://github.com/ChoruTiktokers182/Choru-bypass/issues",
+	"homepage": "https://github.com/ChoruTiktokers182/Choru-bypass/issues", 
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
@@ -46,7 +46,7 @@
 		"discord-chatbot": "^2.1.0",
 		"eval": "^0.1.8",
 		"extract-zip": "",
-		"fb-chat-api": "^10.4.19",
+		"fb-chat-api": "github:mcauser/fb-chat-api",
 		"fca-choru": "git+https://github.com/ChoruTiktokers182/fca-Choru.git",
 		"fca-horizon-remake": "^31.40.24",
 		"fca-sagor-remake": "^41.0.1",
@@ -90,5 +90,7 @@
 		"ytdl-core": "^4.11.2",
 		"zalgo": "0.0.1"
 	},
+	"overrides": {
+		"fb-chat-api": "github:mcauser/fb-chat-api"
+	},
 	"devDependencies": {}
-}
