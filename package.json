@@ -2,7 +2,7 @@
   "name": "MrTomBot",
   "version": "10.1.2",
   "description": "A powerful Facebook Messenger Bot made by Rudra Jaat.",
-  "main": "mirai.js",
+  "main": "Mirai.js",
   "engines": {
     "node": "20.15.1",
     "npm": "10.7.0"
